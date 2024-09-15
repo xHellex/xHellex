@@ -28,18 +28,19 @@ I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 ### :hammer_and_wrench: Languages and Dev Tools :
 <div>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" title="Bootstrap" **alt="bootstrap" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" title="Bulma" **alt="bulma" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="CSS3" **alt="css3" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="HTML5" **alt="html5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="CSS3" **alt="css3" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" **alt="bootstrap" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" title="Bulma" **alt="bulma" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="Javascript" **alt="javascript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="React" **alt="react" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/astro/astro-original.svg" title="Astro" **alt="react" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" title="SASS" **alt="sass" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" title="Webpack" **alt="webpack" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="Git" **alt="git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Jira" **alt="Jira" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" title="Figma" **alt="figma" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" title="Illustrator" **alt="illustrator" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" title="Photoshop" **alt="photoshop" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg"  title="XD" **alt="xd" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" title="Photoshop" **alt="photoshop" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-original.svg"  title="XD" **alt="xd" width="40" height="40"/>
 </div>
