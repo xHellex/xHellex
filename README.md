@@ -44,3 +44,16 @@ I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" title="Photoshop" **alt="photoshop" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-original.svg"  title="XD" **alt="xd" width="40" height="40"/>
 </div>
+
+
+### :fire: My Stats :
+
+<div align="center">  
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=xhellex&theme=dark&background=000000" width="600"/>
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xhellex&layout=compact&theme=vision-friendly-dark" width="600"/>
+</div>
+<div align="center"> 
+  <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xhellex" alt="xhellex"/></a></p> 
+</div>
