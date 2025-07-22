@@ -20,7 +20,7 @@
 I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Chile.
 - :telescope: Web Developer as Front-End Developer with Javascript, React Js and Astro technologies. Professional with experience in agile Scrum methodology, analytical, investigative, teamwork and problem solving approach. Interest in development of start-ups, video game projects, multinational companies, recognition in development and implementation of user experience, payment processes, tracking analytics, voucher implementation.
 
-- :zap: In my free time, I play videogames, boardgames and I'm a Cleric lvl 3 in Dungeons and Dragons 🎲</a>.
+- :zap: In my free time, I play videogames, boardgames and I'm a Cleric lvl 5 in Dungeons and Dragons 🎲</a>.
 
 - :mailbox:How to reach me: felipe.p_94@hotmail.com
 
