@@ -56,11 +56,19 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :fire: My Stats :
 
 <div align="center">  
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=xhellex&theme=dark&background=000000" width="600"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=xhellex&theme=dark&background=000000" width="600" alt="GitHub Streak"/>
 </div>
+
+<br/>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xhellex&layout=compact&theme=vision-friendly-dark" width="600"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xhellex&layout=compact&theme=vision-friendly-dark" width="600" alt="Top Languages"/>
 </div>
+
+<br/>
+
 <div align="center"> 
-  <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xhellex" alt="xhellex"/></a></p> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=xhellex&theme=darkhub&no-frame=true" alt="Trophies"/>
+  </a>
 </div>
