@@ -17,13 +17,13 @@
 
 ---
 ### :man_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Santiago, Chile[cite: 8].
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Santiago, Chile.
 
-- :telescope: I have over 5 years of professional experience building scalable web applications and user-centric interfaces[cite: 8]. While my foundation is in Front-End development using modern JavaScript and React.js, I also have solid Backend capabilities utilizing Java, Spring Boot, and PostgreSQL[cite: 8].
-- :seedling: I am currently advancing my technical foundations by studying to become a Computer Programmer Analyst at DUOC UC to further drive software architecture excellence[cite: 8].
-- :briefcase: I have a strong background working in agile Scrum environments, optimizing complex transacting platforms, integrating secure payment flows, and developing RESTful APIs[cite: 8].
+- :telescope: I have over 5 years of professional experience building scalable web applications and user-centric interfaces. While my foundation is in Front-End development using modern JavaScript and React.js, I also have solid Backend capabilities utilizing Java, Spring Boot, and PostgreSQL.
+- :seedling: I am currently advancing my technical foundations by studying to become a Computer Programmer Analyst at DUOC UC to further drive software architecture excellence.
+- :briefcase: I have a strong background working in agile Scrum environments, optimizing complex transacting platforms, integrating secure payment flows, and developing RESTful APIs.
 - :zap: In my free time, I play videogames, boardgames, and I'm a Cleric lvl 6 in Dungeons and Dragons 🎲.
-- :mailbox: How to reach me: felipe.p_94@hotmail.com[cite: 8]
+- :mailbox: How to reach me: felipe.p_94@hotmail.com
 
 ---
 
