@@ -69,6 +69,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <div align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=xhellex&theme=darkhub&no-frame=true" alt="Trophies"/>
+    <img src="https://gh-trophy.cdnsoft.net/?username=xhellex&theme=darkhub&no-frame=true" alt="Trophies"/>
   </a>
 </div>
